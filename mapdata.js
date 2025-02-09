@@ -125,7 +125,7 @@ keyboard_navigation: "yes",
     BD: {
       name: "Bangladesh*",
       image_url: "Countries/bangladesh.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#bangladesh",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#bangaladesh",
       description: "Click to View"
     },
     BG: {
@@ -179,7 +179,7 @@ keyboard_navigation: "yes",
     CN: {
       name: "China*",
       image_url: "Countries/China.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#china",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#china",
       description: "Click to View"
     },
     CI: {
@@ -308,13 +308,13 @@ keyboard_navigation: "yes",
     ID: {
       name: "Indonesia*",
       image_url: "Countries/Indonesia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#indonesia",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#indonesia",
       description: "Click to View"
     },
     IN: {
       name: "India*",
       image_url: "Countries/India.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#india",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#india",
       description: "Click to View"
     },
     IE: {
@@ -326,7 +326,7 @@ keyboard_navigation: "yes",
     IQ: {
       name: "Iraq/Kurdistan*",
       image_url: "Countries/Kurdistan.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#kurdistan",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#kurdistan",
       description: "Click to View"
     },
     IS: {
@@ -359,13 +359,13 @@ keyboard_navigation: "yes",
     KH: {
       name: "Cambodia*",
       image_url: "Countries/Cambodia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#cambodia",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#cambodia",
       description: "Click to View"
     },
     KR: {
       name: "Republic of Korea*",
       image_url: "Countries/South Korea.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#korea",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#south-korea",
       description: "Click to View"
     },
     XK: {
@@ -392,7 +392,7 @@ keyboard_navigation: "yes",
     LK: {
       name: "Sri Lanka*",
       image_url: "Countries/Sri lanka.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#sri-lanka",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#sri-lanka",
       description: "Click to View"
     },
     LS: {
@@ -455,7 +455,7 @@ keyboard_navigation: "yes",
     MY: {
       name: "Malaysia*",
       image_url: "Countries/Malaysia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#malaysia",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#malaysia",
       description: "Click to View"
     },
     NA: {
@@ -482,7 +482,7 @@ keyboard_navigation: "yes",
     NP: {
       name: "Nepal*",
       image_url: "Countries/Nepal.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#nepal",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#nepal",
       description: "Click to View"
     },
     NZ: {
@@ -503,7 +503,7 @@ keyboard_navigation: "yes",
     PH: {
       name: "Philippines*",
       image_url: "Countries/Philippines.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#philippines",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#philippines",
       description: "Click to View"
     },
     PG: {
@@ -614,7 +614,7 @@ keyboard_navigation: "yes",
     TW: {
       name: "Taiwan*",
       image_url: "Countries/Taiwan.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#taiwan",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#taiwan",
       description: "Click to View"
     },
     TZ: {
@@ -644,7 +644,7 @@ keyboard_navigation: "yes",
     VN: {
       name: "Vietnam*",
       image_url: "Countries/Vietnam.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#vietnam",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#vietnam",
       description: "Click to View"
     },
     VU: {
@@ -728,7 +728,7 @@ keyboard_navigation: "yes",
     HK: {
       name: "Hong Kong*",
       image_url: "Countries/Hong Kong.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#hong-kong",
+      url: "https://stpaulcopticservice.my.canva.site/countries-asia#hong-kong",
       description: "Click to View"
     },
     KN: {
