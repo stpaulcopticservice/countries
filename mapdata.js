@@ -80,7 +80,7 @@ keyboard_navigation: "yes",
       name: "Angola*",
       hover_color: "red",
       image_url: "Countries/angola.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#angola",
+      url: "https://stpaulcopticservice.org/africa#angola",
       description: "Click to View"
     },
     AL: {
@@ -107,7 +107,7 @@ keyboard_navigation: "yes",
     BI: {
       name: "Burundi*",
       image_url: "Countries/Burundi.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#burundi",
+      url: "https://stpaulcopticservice.org/africa#burundi",
       description: "Click to View"
     },
     BE: {
@@ -116,7 +116,7 @@ keyboard_navigation: "yes",
     BJ: {
       name: "Benin*",
       image_url: "Countries/Benin.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#benin",
+      url: "https://stpaulcopticservice.org/africa#benin",
       description: "Click to View"
     },
     BF: {
@@ -125,7 +125,7 @@ keyboard_navigation: "yes",
     BD: {
       name: "Bangladesh*",
       image_url: "Countries/bangladesh.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#bangaladesh",
+      url: "https://stpaulcopticservice.org/asia#bangaladesh",
       description: "Click to View"
     },
     BG: {
@@ -158,13 +158,13 @@ keyboard_navigation: "yes",
     BW: {
       name: "Botswana*",
       image_url: "Countries/Botswana.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#botswana",
+      url: "https://stpaulcopticservice.org/africa#botswana",
       description: "Click to View"
     },
     CF: {
       name: "Central African Republic*",
       image_url: "Countries/Centrafrique.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#centrafrique",
+      url: "https://stpaulcopticservice.org/africa#centrafrique",
       description: "Click to View"
     },
     CA: {
@@ -179,19 +179,19 @@ keyboard_navigation: "yes",
     CN: {
       name: "China*",
       image_url: "Countries/China.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#china",
+      url: "https://stpaulcopticservice.org/asia#china",
       description: "Click to View"
     },
     CI: {
       name: "Côte d'Ivoire*",
       image_url: "Countries/Côte d'Ivoire.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#cote-d-ivoire",
+      url: "https://stpaulcopticservice.org/africa#cote-d-ivoire",
       description: "Click to View"
     },
     CM: {
       name: "Cameroon*",
       image_url: "Countries/Cameroon.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#cameroon",
+      url: "https://stpaulcopticservice.org/africa#cameroon",
       description: "Click to View"
     },
     CD: {
@@ -242,7 +242,7 @@ keyboard_navigation: "yes",
     ET: {
       name: "Ethiopia*",
       image_url: "Countries/Ethiopia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#ethiopia",
+      url: "https://stpaulcopticservice.org/africa#ethiopia",
       description: "Click to View"
     },
     FI: {
@@ -254,7 +254,7 @@ keyboard_navigation: "yes",
     GA: {
       name: "Gabon*",
       image_url: "Countries/Gabon.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#gabon",
+      url: "https://stpaulcopticservice.org/africa#gabon",
       description: "Click to View"
     },
     GB: {
@@ -266,7 +266,7 @@ keyboard_navigation: "yes",
     GH: {
       name: "Ghana*",
       image_url: "Countries/Ghana.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#ghana",
+      url: "https://stpaulcopticservice.org/africa#ghana",
       description: "Click to View"
     },
     GN: {
@@ -308,13 +308,13 @@ keyboard_navigation: "yes",
     ID: {
       name: "Indonesia*",
       image_url: "Countries/Indonesia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#indonesia",
+      url: "https://stpaulcopticservice.org/asia#indonesia",
       description: "Click to View"
     },
     IN: {
       name: "India*",
       image_url: "Countries/India.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#india",
+      url: "https://stpaulcopticservice.org/asia#india",
       description: "Click to View"
     },
     IE: {
@@ -326,7 +326,7 @@ keyboard_navigation: "yes",
     IQ: {
       name: "Iraq/Kurdistan*",
       image_url: "Countries/Kurdistan.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#kurdistan",
+      url: "https://stpaulcopticservice.org/asia#kurdistan",
       description: "Click to View"
     },
     IS: {
@@ -359,13 +359,13 @@ keyboard_navigation: "yes",
     KH: {
       name: "Cambodia*",
       image_url: "Countries/Cambodia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#cambodia",
+      url: "https://stpaulcopticservice.org/asia#cambodia",
       description: "Click to View"
     },
     KR: {
       name: "Republic of Korea*",
       image_url: "Countries/South Korea.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#south-korea",
+      url: "https://stpaulcopticservice.org/asia#south-korea",
       description: "Click to View"
     },
     XK: {
@@ -383,7 +383,7 @@ keyboard_navigation: "yes",
     LR: {
       name: "Liberia*",
       image_url: "Countries/Liberia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#liberia",
+      url: "https://stpaulcopticservice.org/africa#liberia",
       description: "Click to View"
     },
     LY: {
@@ -392,7 +392,7 @@ keyboard_navigation: "yes",
     LK: {
       name: "Sri Lanka*",
       image_url: "Countries/Sri lanka.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#sri-lanka",
+      url: "https://stpaulcopticservice.org/asia#sri-lanka",
       description: "Click to View"
     },
     LS: {
@@ -410,7 +410,7 @@ keyboard_navigation: "yes",
     MA: {
       name: "Morocco*",
       image_url: "Countries/Morocco.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#morocco",
+      url: "https://stpaulcopticservice.org/africa#morocco",
       description: "Click to View"
     },
     MD: {
@@ -419,7 +419,7 @@ keyboard_navigation: "yes",
     MG: {
       name: "Madagascar*",
       image_url: "Countries/Madagascar.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#madagascar",
+      url: "https://stpaulcopticservice.org/africa#madagascar",
       description: "Click to View"
     },
     MX: {
@@ -449,19 +449,19 @@ keyboard_navigation: "yes",
     MW: {
       name: "Malawi*",
       image_url: "Countries/Malawi.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#malawi",
+      url: "https://stpaulcopticservice.org/africa#malawi",
       description: "Click to View"
     },
     MY: {
       name: "Malaysia*",
       image_url: "Countries/Malaysia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#malaysia",
+      url: "https://stpaulcopticservice.org/asia#malaysia",
       description: "Click to View"
     },
     NA: {
       name: "Namibia*",
       image_url: "Countries/Namibia.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#namibia",
+      url: "https://stpaulcopticservice.org/africa#namibia",
       description: "Click to View"
     },
     NE: {
@@ -482,7 +482,7 @@ keyboard_navigation: "yes",
     NP: {
       name: "Nepal*",
       image_url: "Countries/Nepal.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#nepal",
+      url: "https://stpaulcopticservice.org/asia#nepal",
       description: "Click to View"
     },
     NZ: {
@@ -503,7 +503,7 @@ keyboard_navigation: "yes",
     PH: {
       name: "Philippines*",
       image_url: "Countries/Philippines.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#philippines",
+      url: "https://stpaulcopticservice.org/asia#philippines",
       description: "Click to View"
     },
     PG: {
@@ -536,7 +536,7 @@ keyboard_navigation: "yes",
     RW: {
       name: "Rwanda*",
       image_url: "Countries/Rwanda.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#rwanda",
+      url: "https://stpaulcopticservice.org/africa#rwanda",
       description: "Click to View"
     },
     EH: {
@@ -551,7 +551,7 @@ keyboard_navigation: "yes",
     SS: {
       name: "South Sudan*",
       image_url: "Countries/South Sudan​.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#south-sudan",
+      url: "https://stpaulcopticservice.org/africa#south-sudan",
       description: "Click to View"
     },
     SN: {
@@ -590,7 +590,7 @@ keyboard_navigation: "yes",
     TG: {
       name: "Togo*",
       image_url: "Countries/Togo.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#togo",
+      url: "https://stpaulcopticservice.org/africa#togo",
       description: "Click to View"
     },
     TH: {
@@ -614,7 +614,7 @@ keyboard_navigation: "yes",
     TW: {
       name: "Taiwan*",
       image_url: "Countries/Taiwan.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#taiwan",
+      url: "https://stpaulcopticservice.org/asia#taiwan",
       description: "Click to View"
     },
     TZ: {
@@ -623,7 +623,7 @@ keyboard_navigation: "yes",
     UG: {
       name: "Uganda*",
       image_url: "Countries/Ughanda.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#ughanda",
+      url: "https://stpaulcopticservice.org/africa#ughanda",
       description: "Click to View"
     },
     UA: {
@@ -644,7 +644,7 @@ keyboard_navigation: "yes",
     VN: {
       name: "Vietnam*",
       image_url: "Countries/Vietnam.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#vietnam",
+      url: "https://stpaulcopticservice.org/asia#vietnam",
       description: "Click to View"
     },
     VU: {
@@ -656,7 +656,7 @@ keyboard_navigation: "yes",
     ZA: {
       name: "South Africa*",
       image_url: "Countries/South Africa.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#south-africa",
+      url: "https://stpaulcopticservice.org/africa#south-africa",
       description: "Click to View"
     },
     ZM: {
@@ -665,7 +665,7 @@ keyboard_navigation: "yes",
     ZW: {
       name: "Zimbabwe*",
       image_url: "Countries/Zimbabwe.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#zimbabwe",
+      url: "https://stpaulcopticservice.org/africa#zimbabwe",
       description: "Click to View"
     },
     SO: {
@@ -707,7 +707,7 @@ keyboard_navigation: "yes",
     CV: {
       name: "Cape Verde*",
       color: "#3B729F",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#cape-verde",
+      url: "https://stpaulcopticservice.org/africa#cape-verde",
       description: "Click to View"
     },
     KY: {
@@ -728,7 +728,7 @@ keyboard_navigation: "yes",
     HK: {
       name: "Hong Kong*",
       image_url: "Countries/Hong Kong.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-asia#hong-kong",
+      url: "https://stpaulcopticservice.org/asia#hong-kong",
       description: "Click to View"
     },
     KN: {
@@ -755,7 +755,7 @@ keyboard_navigation: "yes",
     MU: {
       name: "Mauritius*",
       image_url: "Countries/Mauritius.png",
-      url: "https://stpaulcopticservice.my.canva.site/countries-africa#mauritius",
+      url: "https://stpaulcopticservice.org/africa#mauritius",
       description: "Click to View"
     },
     NC: {
